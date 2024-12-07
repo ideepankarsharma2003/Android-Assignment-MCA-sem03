@@ -3,26 +3,39 @@
 ## Index Activity
 - **Purpose**: To serve as a navigation menu for all the individual tasks.
 - **Implementation**:
-  - [ ] Use a `RecyclerView` or `ListView` to list all the tasks.
-  - [ ] Clicking on a list item will navigate to the corresponding activity using `Intents`.
+  - [x] Use a `RecyclerView` or `ListView` to list all the tasks.
+  - [x] Clicking on a list item will navigate to the corresponding activity using `Intents`.
 
+<p>
+  <img src="https://github.com/user-attachments/assets/b4126a63-d211-49fb-991e-134de8a9cb8e" width="512">
+</p>
+  
 ---
 
 ## Activity Implementations
 
-- [ ] **Task 1: Display Static Message**
+- [x] **Task 1: Display Static Message**
   - **Activity**: `Task1Activity`
   - **Details**: Create a layout with a `TextView` displaying the message.
   - **Message**: "Welcome to Graphic Era University MCA"
 
+<p>
+  <img src="https://github.com/user-attachments/assets/be70bde1-41c9-4193-9049-552b6e9a017d" width="512">
+</p>
+
+
 ---
 
-- [ ] **Task 2: Display Message on Button Click**
+- [x] **Task 2: Display Message on Button Click**
   - **Activity**: `Task2Activity`
   - **Details**:
     - Layout with a `Button` and a `TextView`.
     - Set an `OnClickListener` on the button to display the message in the `TextView`.
   - **Message**: "Welcome to Graphic Era University - MCA"
+
+| Image 1                                                                                         | Image 2                                                                                         |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/user-attachments/assets/c3b3e1be-7bc6-4a4d-995c-63faad5d557d" height="256"> | <img src="https://github.com/user-attachments/assets/5fb12d1f-1e15-4150-96b3-a51b69db4c50" height="256"> |
 
 ---
 
