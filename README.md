@@ -105,13 +105,18 @@
 
 ---
 
-- [ ] **Task 8: Relative Layout for Login Form**
+- [x] **Task 8: Relative Layout for Login Form**
   - **Activity**: [`Task8Activity`](app/src/main/res/layout/activity_practical08.xml)
   - **Details**:
     - Layout:
       - `EditText` fields for username and password.
       - `Button` for login.
     - Use `RelativeLayout` to position the views.
+
+<p>
+  <img src="https://github.com/user-attachments/assets/33439892-7ac2-447f-a3d5-f4194a1d1643" width=512>
+</p>
+
 
 ---
 
