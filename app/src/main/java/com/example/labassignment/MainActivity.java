@@ -27,14 +27,29 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void practical_01(View v){
-//        Toast.makeText(this, "Going To Practical 01", Toast.LENGTH_LONG).show();
         Intent i= new Intent(this, Practical01.class);
         System.out.println("Firing the intent.");
         startActivity(i);
     }
     public void practical_02(View v){
-//        Toast.makeText(this, "Going To Practical 02", Toast.LENGTH_LONG).show();
         Intent i= new Intent(this, Practical02.class);
+        System.out.println("Firing the intent.");
+        startActivity(i);
+    }
+
+    public void practical_03(View v){
+        Intent i= new Intent(this, Practical03.class);
+        System.out.println("Firing the intent.");
+        startActivity(i);
+    }
+    public void practical_04(View v){
+        Intent i= new Intent(this, Practical04.class);
+        System.out.println("Firing the intent.");
+        startActivity(i);
+    }
+
+    public void practical_05(View v){
+        Intent i= new Intent(this, Practical05.class);
         System.out.println("Firing the intent.");
         startActivity(i);
     }

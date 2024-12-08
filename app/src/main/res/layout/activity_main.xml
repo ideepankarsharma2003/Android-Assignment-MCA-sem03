@@ -29,4 +29,32 @@
         android:onClick="practical_02"
         android:text="Practical 02"></Button>
 
+    <Button
+        android:id="@+id/b3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/b2"
+        android:onClick="practical_03"
+        android:text="Practical 03"></Button>
+
+    <Button
+        android:id="@+id/b4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/b3"
+        android:onClick="practical_04"
+        android:text="Practical 04"></Button>
+
+
+    <Button
+        android:id="@+id/b5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/b4"
+        android:onClick="practical_05"
+        android:text="Practical 05"></Button>
+
 </RelativeLayout>
