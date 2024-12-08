@@ -51,16 +51,20 @@
 
 ---
 
-- [ ] **Task 4: Toast Message**
+- [x] **Task 4: Toast Message**
   - **Activity**: `Task4Activity`
   - **Details**:
     - Layout with a `Button` to trigger a `Toast` message.
     - Set duration to `Toast.LENGTH_LONG`.
   - **Message**: "Welcome to GEU - learning Android Application Development - MCA"
+     
+    <p>
+      <img src="https://github.com/user-attachments/assets/3f5d4cd0-87a0-44c7-883c-e2fc465567b2" width=512>
+    </p>
 
 ---
 
-- [ ] **Task 5: Simple Calculator**
+- [x] **Task 5: Simple Calculator**
   - **Activity**: `Task5Activity`
   - **Details**:
     - Layout with:
@@ -68,24 +72,36 @@
       - `Buttons` for operations (Add, Subtract, Multiply, Divide).
       - A `TextView` for displaying the result.
     - Implement basic arithmetic functionality in `OnClickListener` methods.
+<p>
+  <img src="https://github.com/user-attachments/assets/d7d207c7-2c8d-4d68-8a6f-1423c450028d" width=512>
 
+</p>
 ---
 
-- [ ] **Task 6: Using Intents to Link Activities**
+- [x] **Task 6: Using Intents to Link Activities**
   - **Activity**: `Task6Activity`
   - **Details**:
     - Two activities:
       - `Task6Activity`: Displays a button.
       - `LinkedActivity`: Displays another message.
     - Use an explicit `Intent` to navigate between these activities.
+      
+| Main Activity                                                                               | Intent Activity                                                                                       |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/6b506a9f-e1ca-495d-a055-cd9a4d1e5bdd)| ![image](https://github.com/user-attachments/assets/9b064c17-8f50-4397-81bf-b9c41e65e979)|
+    
 
 ---
 
-- [ ] **Task 7: Using Intents to Navigate to a Website**
+- [x] **Task 7: Using Intents to Navigate to a Website**
   - **Activity**: `Task7Activity`
   - **Details**:
     - Layout with a `Button`.
     - Use an implicit `Intent` to navigate to the Graphic Era University website.
+
+| Main Activity                                                                               | Intent Activity (`Web View`)                                                                |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/6b506a9f-e1ca-495d-a055-cd9a4d1e5bdd)| ![image](https://github.com/user-attachments/assets/c62c61f5-b7b2-4163-b698-b927423b6507)|
 
 ---
 
