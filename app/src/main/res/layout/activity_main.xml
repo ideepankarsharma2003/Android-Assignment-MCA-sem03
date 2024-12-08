@@ -57,4 +57,22 @@
         android:onClick="practical_05"
         android:text="Practical 05"></Button>
 
+    <Button
+        android:id="@+id/b6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/b5"
+        android:onClick="practical_06"
+        android:text="Practical 06"></Button>
+
+    <Button
+        android:id="@+id/b7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/b6"
+        android:onClick="practical_07"
+        android:text="Practical 07"></Button>
+
 </RelativeLayout>

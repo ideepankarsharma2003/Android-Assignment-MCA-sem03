@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -26,6 +27,8 @@
         <activity android:name=".Practical03"></activity>
         <activity android:name=".Practical04"></activity>
         <activity android:name=".Practical05"></activity>
+        <activity android:name=".Practical06"></activity>
+        <activity android:name=".Practical07"></activity>
     </application>
 
 </manifest>
