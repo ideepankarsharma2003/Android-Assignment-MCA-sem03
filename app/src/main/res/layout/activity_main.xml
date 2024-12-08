@@ -75,4 +75,31 @@
         android:onClick="practical_07"
         android:text="Practical 07"></Button>
 
+    <Button
+        android:id="@+id/b8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/b7"
+        android:onClick="practical_08"
+        android:text="Practical 08"></Button>
+
+    <Button
+        android:id="@+id/b9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/b8"
+        android:onClick="practical_09"
+        android:text="Practical 09"></Button>
+
+    <Button
+        android:id="@+id/b10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/b9"
+        android:onClick="practical_10"
+        android:text="Practical 10"></Button>
+
 </RelativeLayout>

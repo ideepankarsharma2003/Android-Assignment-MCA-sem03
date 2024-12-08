@@ -65,5 +65,23 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
+    public void practical_08(View v){
+        Intent i= new Intent(this, Practical08.class);
+        System.out.println("Firing the intent.");
+        startActivity(i);
+    }
+
+    public void practical_09(View v){
+        Intent i= new Intent(this, Practical09.class);
+        System.out.println("Firing the intent.");
+        startActivity(i);
+    }
+
+    public void practical_10(View v){
+        Intent i= new Intent(this, Practical10.class);
+        System.out.println("Firing the intent.");
+        startActivity(i);
+    }
+
 
 }
