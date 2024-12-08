@@ -15,7 +15,7 @@
 ## Activity Implementations
 
 - [x] **Task 1: Display Static Message**
-  - **Activity**: `Task1Activity`
+  - **Activity**: [`Task1Activity`](app/src/main/res/layout/activity_practical01.xml)
   - **Details**: Create a layout with a `TextView` displaying the message.
   - **Message**: "Welcome to Graphic Era University MCA"
 
@@ -27,7 +27,7 @@
 ---
 
 - [x] **Task 2: Display Message on Button Click**
-  - **Activity**: `Task2Activity`
+  - **Activity**: [`Task2Activity`](app/src/main/res/layout/activity_practical02.xml)
   - **Details**:
     - Layout with a `Button` and a `TextView`.
     - Set an `OnClickListener` on the button to display the message in the `TextView`.
@@ -40,7 +40,7 @@
 ---
 
 - [x] **Task 3: Message on Different Emulators**
-  - **Activity**: `Task3Activity`
+  - **Activity**: [`Task3Activity`](app/src/main/res/layout/activity_practical03.xml)
   - **Details**:
     - Same as Task 1, but verify functionality across different emulator configurations (e.g., phone, tablet).
       
@@ -52,7 +52,7 @@
 ---
 
 - [x] **Task 4: Toast Message**
-  - **Activity**: `Task4Activity`
+  - **Activity**: [`Task4Activity`](app/src/main/res/layout/activity_practical04.xml)
   - **Details**:
     - Layout with a `Button` to trigger a `Toast` message.
     - Set duration to `Toast.LENGTH_LONG`.
@@ -65,7 +65,7 @@
 ---
 
 - [x] **Task 5: Simple Calculator**
-  - **Activity**: `Task5Activity`
+  - **Activity**: [`Task5Activity`](app/src/main/res/layout/activity_practical05.xml)
   - **Details**:
     - Layout with:
       - `EditText` fields for inputs.
@@ -79,7 +79,7 @@
 ---
 
 - [x] **Task 6: Using Intents to Link Activities**
-  - **Activity**: `Task6Activity`
+  - **Activity**: [`Task6Activity`](app/src/main/res/layout/activity_practical06.xml)
   - **Details**:
     - Two activities:
       - `Task6Activity`: Displays a button.
@@ -94,7 +94,7 @@
 ---
 
 - [x] **Task 7: Using Intents to Navigate to a Website**
-  - **Activity**: `Task7Activity`
+  - **Activity**: [`Task7Activity`](app/src/main/res/layout/activity_practical07.xml)
   - **Details**:
     - Layout with a `Button`.
     - Use an implicit `Intent` to navigate to the Graphic Era University website.
@@ -106,7 +106,7 @@
 ---
 
 - [ ] **Task 8: Relative Layout for Login Form**
-  - **Activity**: `Task8Activity`
+  - **Activity**: [`Task8Activity`](app/src/main/res/layout/activity_practical08.xml)
   - **Details**:
     - Layout:
       - `EditText` fields for username and password.
@@ -116,7 +116,7 @@
 ---
 
 - [ ] **Task 9: Registration Form**
-  - **Activity**: `Task9Activity`
+  - **Activity**: [`Task9Activity`](app/src/main/res/layout/activity_practical09.xml)
   - **Details**:
     - Layout:
       - Fields: Name, Email, Phone, Event selection (dropdown/spinner).
@@ -126,7 +126,7 @@
 ---
 
 - [ ] **Task 10: Graphics**
-  - **Activity**: `Task10Activity`
+  - **Activity**: [`Task10Activity`](app/src/main/res/layout/activity_practical10.xml)
   - **Details**:
     - Use `Canvas` and `Paint` classes to draw a circle, triangle, and rectangle.
     - Display them on a `CustomView`.
