@@ -140,7 +140,7 @@
     - Use `Canvas` and `Paint` classes to draw a circle, triangle, and rectangle.
     - Display them on a `CustomView`.
       <p>
-        <img src="https://github.com/user-attachments/assets/68c71104-8832-4040-a34c-fa35e8f8906d">
+        <img src="https://github.com/user-attachments/assets/68c71104-8832-4040-a34c-fa35e8f8906d" width=512>
       </p>
 
 ---
