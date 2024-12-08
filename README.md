@@ -120,13 +120,17 @@
 
 ---
 
-- [ ] **Task 9: Registration Form**
+- [x] **Task 9: Registration Form**
   - **Activity**: [`Task9Activity`](app/src/main/res/layout/activity_practical09.xml)
   - **Details**:
     - Layout:
       - Fields: Name, Email, Phone, Event selection (dropdown/spinner).
       - `Button` for Submit.
     - Display "Registration is successful" in a `Toast` or `TextView` on submission.
+   
+    <p>
+      <img src="https://github.com/user-attachments/assets/81f04137-dbdc-4c15-9449-36a6bc928444" width=512>
+    </p>
 
 ---
 
