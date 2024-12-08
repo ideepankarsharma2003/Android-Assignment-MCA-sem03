@@ -35,14 +35,19 @@
 
 | Image 1                                                                                         | Image 2                                                                                         |
 |------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/user-attachments/assets/c3b3e1be-7bc6-4a4d-995c-63faad5d557d" height="auto"> | <img src="https://github.com/user-attachments/assets/5fb12d1f-1e15-4150-96b3-a51b69db4c50" > |
+| ![image](https://github.com/user-attachments/assets/c3b3e1be-7bc6-4a4d-995c-63faad5d557d) | <img src="https://github.com/user-attachments/assets/5fb12d1f-1e15-4150-96b3-a51b69db4c50" > |
 
 ---
 
-- [ ] **Task 3: Message on Different Emulators**
+- [x] **Task 3: Message on Different Emulators**
   - **Activity**: `Task3Activity`
   - **Details**:
     - Same as Task 1, but verify functionality across different emulator configurations (e.g., phone, tablet).
+      
+| Medium Phone API                                                                               | Pixel 6 Pro                                                                                         |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/2a0756bc-f531-4f38-910a-ded16075b634)| ![image](https://github.com/user-attachments/assets/58b29e5c-d262-47b6-9716-e69b5ab43e70)|
+      
 
 ---
 
